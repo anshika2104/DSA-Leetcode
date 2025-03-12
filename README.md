@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anshika2104/DSA/tree/master/0001-two-sum) |
 | [0162-find-peak-element](https://github.com/anshika2104/DSA/tree/master/0162-find-peak-element) |
 ## Binary Search
 |  |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2121-find-if-path-exists-in-graph](https://github.com/anshika2104/DSA/tree/master/2121-find-if-path-exists-in-graph) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/anshika2104/DSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
