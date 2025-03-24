@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/anshika2104/DSA/tree/master/0027-remove-element) |
 | [0162-find-peak-element](https://github.com/anshika2104/DSA/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/anshika2104/DSA/tree/master/0200-number-of-islands) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/anshika2104/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2308-divide-array-into-equal-pairs](https://github.com/anshika2104/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 ## Binary Search
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anshika2104/DSA/tree/master/0001-two-sum) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/anshika2104/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2308-divide-array-into-equal-pairs](https://github.com/anshika2104/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 ## Bit Manipulation
 |  |
