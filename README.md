@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anshika2104/DSA/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/anshika2104/DSA/tree/master/0027-remove-element) |
+| [0078-subsets](https://github.com/anshika2104/DSA/tree/master/0078-subsets) |
 | [0162-find-peak-element](https://github.com/anshika2104/DSA/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/anshika2104/DSA/tree/master/0200-number-of-islands) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/anshika2104/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/anshika2104/DSA/tree/master/0078-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/anshika2104/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 ## Counting
 |  |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0637-average-of-levels-in-binary-tree](https://github.com/anshika2104/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/anshika2104/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
