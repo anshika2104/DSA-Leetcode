@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0800-letter-case-permutation](https://github.com/anshika2104/DSA/tree/master/0800-letter-case-permutation) |
 | [1894-merge-strings-alternately](https://github.com/anshika2104/DSA/tree/master/1894-merge-strings-alternately) |
 ## Union Find
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/anshika2104/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/anshika2104/DSA/tree/master/0090-subsets-ii) |
+| [0800-letter-case-permutation](https://github.com/anshika2104/DSA/tree/master/0800-letter-case-permutation) |
 | [2308-divide-array-into-equal-pairs](https://github.com/anshika2104/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 ## Counting
 |  |
@@ -84,4 +86,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/anshika2104/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/anshika2104/DSA/tree/master/0090-subsets-ii) |
+| [0800-letter-case-permutation](https://github.com/anshika2104/DSA/tree/master/0800-letter-case-permutation) |
 <!---LeetCode Topics End-->
