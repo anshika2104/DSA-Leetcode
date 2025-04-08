@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/anshika2104/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/anshika2104/DSA/tree/master/0090-subsets-ii) |
 | [0162-find-peak-element](https://github.com/anshika2104/DSA/tree/master/0162-find-peak-element) |
+| [0198-house-robber](https://github.com/anshika2104/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/anshika2104/DSA/tree/master/0200-number-of-islands) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/anshika2104/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2308-divide-array-into-equal-pairs](https://github.com/anshika2104/DSA/tree/master/2308-divide-array-into-equal-pairs) |
@@ -87,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/anshika2104/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/anshika2104/DSA/tree/master/0090-subsets-ii) |
 | [0800-letter-case-permutation](https://github.com/anshika2104/DSA/tree/master/0800-letter-case-permutation) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/anshika2104/DSA/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
