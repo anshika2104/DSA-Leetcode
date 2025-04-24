@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/anshika2104/DSA/tree/master/0027-remove-element) |
 | [0078-subsets](https://github.com/anshika2104/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/anshika2104/DSA/tree/master/0090-subsets-ii) |
+| [0139-word-break](https://github.com/anshika2104/DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/anshika2104/DSA/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/anshika2104/DSA/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/anshika2104/DSA/tree/master/0198-house-robber) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0139-word-break](https://github.com/anshika2104/DSA/tree/master/0139-word-break) |
 | [0800-letter-case-permutation](https://github.com/anshika2104/DSA/tree/master/0800-letter-case-permutation) |
 | [1894-merge-strings-alternately](https://github.com/anshika2104/DSA/tree/master/1894-merge-strings-alternately) |
 ## Union Find
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anshika2104/DSA/tree/master/0001-two-sum) |
+| [0139-word-break](https://github.com/anshika2104/DSA/tree/master/0139-word-break) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/anshika2104/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2308-divide-array-into-equal-pairs](https://github.com/anshika2104/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 ## Bit Manipulation
@@ -92,6 +95,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0139-word-break](https://github.com/anshika2104/DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/anshika2104/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/anshika2104/DSA/tree/master/0198-house-robber) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/anshika2104/DSA/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/anshika2104/DSA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
