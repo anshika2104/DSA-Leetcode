@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/anshika2104/DSA/tree/master/0027-remove-element) |
 | [0078-subsets](https://github.com/anshika2104/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/anshika2104/DSA/tree/master/0090-subsets-ii) |
+| [0152-maximum-product-subarray](https://github.com/anshika2104/DSA/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/anshika2104/DSA/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/anshika2104/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/anshika2104/DSA/tree/master/0200-number-of-islands) |
@@ -91,5 +92,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/anshika2104/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/anshika2104/DSA/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
