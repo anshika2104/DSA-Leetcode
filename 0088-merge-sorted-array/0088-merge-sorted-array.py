@@ -8,12 +8,9 @@ class Solution(object):
         :rtype: None Do not return anything, modify nums1 in-place instead.
         """
         nums1[:]=nums1[:m]
-        # print(nums1)
         nums2=nums2[:n]
         nums1.extend(nums2)
-        # print(nums1)
         nums1.sort()
-        # print(nums1)
-        # return nums1
+
 
         
