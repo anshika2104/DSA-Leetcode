@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/anshika2104/DSA/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/anshika2104/DSA/tree/master/0027-remove-element) |
 | [0078-subsets](https://github.com/anshika2104/DSA/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/anshika2104/DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/anshika2104/DSA/tree/master/0090-subsets-ii) |
 | [0139-word-break](https://github.com/anshika2104/DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/anshika2104/DSA/tree/master/0152-maximum-product-subarray) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/anshika2104/DSA/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/anshika2104/DSA/tree/master/0088-merge-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/anshika2104/DSA/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/anshika2104/DSA/tree/master/0139-word-break) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/anshika2104/DSA/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
