@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/anshika2104/DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/anshika2104/DSA/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/anshika2104/DSA/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/anshika2104/DSA/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/anshika2104/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/anshika2104/DSA/tree/master/0200-number-of-islands) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/anshika2104/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anshika2104/DSA/tree/master/0001-two-sum) |
 | [0139-word-break](https://github.com/anshika2104/DSA/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/anshika2104/DSA/tree/master/0169-majority-element) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/anshika2104/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2308-divide-array-into-equal-pairs](https://github.com/anshika2104/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 ## Bit Manipulation
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/anshika2104/DSA/tree/master/0169-majority-element) |
 | [2308-divide-array-into-equal-pairs](https://github.com/anshika2104/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 ## Matrix
 |  |
@@ -120,4 +123,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/anshika2104/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/anshika2104/DSA/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/anshika2104/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
