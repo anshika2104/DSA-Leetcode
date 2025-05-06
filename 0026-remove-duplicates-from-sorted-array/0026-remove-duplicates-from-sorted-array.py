@@ -4,8 +4,9 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        nums[:]=sorted(set(nums))
-        return len(nums)
-        # nums[:]=set(nums)
+        # nums[:]=sorted(set(nums))
         # return len(nums)
+        nums[:]=set(nums)
+        nums.sort()
+        return len(nums)
         
