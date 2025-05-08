@@ -128,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anshika2104/DSA/tree/master/0169-majority-element) |
+## Database
+|  |
+| ------- |
+| [2127-employees-whose-manager-left-the-company](https://github.com/anshika2104/DSA/tree/master/2127-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
