@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anshika2104/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0139-word-break](https://github.com/anshika2104/DSA/tree/master/0139-word-break) |
 | [0516-longest-palindromic-subsequence](https://github.com/anshika2104/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0800-letter-case-permutation](https://github.com/anshika2104/DSA/tree/master/0800-letter-case-permutation) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anshika2104/DSA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anshika2104/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0139-word-break](https://github.com/anshika2104/DSA/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/anshika2104/DSA/tree/master/0169-majority-element) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/anshika2104/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0626-exchange-seats](https://github.com/anshika2104/DSA/tree/master/0626-exchange-seats) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/anshika2104/DSA/tree/master/2127-employees-whose-manager-left-the-company) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anshika2104/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
