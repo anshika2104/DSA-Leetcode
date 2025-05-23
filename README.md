@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/anshika2104/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anshika2104/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/anshika2104/DSA/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/anshika2104/DSA/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/anshika2104/DSA/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anshika2104/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/anshika2104/DSA/tree/master/0088-merge-sorted-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshika2104/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/anshika2104/DSA/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/anshika2104/DSA/tree/master/0139-word-break) |
 | [0516-longest-palindromic-subsequence](https://github.com/anshika2104/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0800-letter-case-permutation](https://github.com/anshika2104/DSA/tree/master/0800-letter-case-permutation) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anshika2104/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshika2104/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/anshika2104/DSA/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/anshika2104/DSA/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/anshika2104/DSA/tree/master/0169-majority-element) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/anshika2104/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/anshika2104/DSA/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/anshika2104/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/anshika2104/DSA/tree/master/0169-majority-element) |
 ## Divide and Conquer
