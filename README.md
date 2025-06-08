@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/anshika2104/DSA/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/anshika2104/DSA/tree/master/0178-rank-scores) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/anshika2104/DSA/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0182-duplicate-emails](https://github.com/anshika2104/DSA/tree/master/0182-duplicate-emails) |
 | [0626-exchange-seats](https://github.com/anshika2104/DSA/tree/master/0626-exchange-seats) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/anshika2104/DSA/tree/master/2127-employees-whose-manager-left-the-company) |
 ## Sliding Window
