@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/anshika2104/DSA/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/anshika2104/DSA/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/anshika2104/DSA/tree/master/0185-department-top-three-salaries) |
+| [0196-delete-duplicate-emails](https://github.com/anshika2104/DSA/tree/master/0196-delete-duplicate-emails) |
 | [0626-exchange-seats](https://github.com/anshika2104/DSA/tree/master/0626-exchange-seats) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/anshika2104/DSA/tree/master/2127-employees-whose-manager-left-the-company) |
 ## Sliding Window
