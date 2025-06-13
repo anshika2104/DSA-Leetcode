@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0800-letter-case-permutation](https://github.com/anshika2104/DSA/tree/master/0800-letter-case-permutation) |
 | [1250-longest-common-subsequence](https://github.com/anshika2104/DSA/tree/master/1250-longest-common-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/anshika2104/DSA/tree/master/1894-merge-strings-alternately) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/anshika2104/DSA/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Union Find
 |  |
 | ------- |
@@ -155,4 +156,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshika2104/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Greedy
+|  |
+| ------- |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/anshika2104/DSA/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+## Enumeration
+|  |
+| ------- |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/anshika2104/DSA/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->
