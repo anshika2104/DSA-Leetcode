@@ -170,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/anshika2104/DSA/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/anshika2104/DSA/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
