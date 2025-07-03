@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/anshika2104/DSA/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/anshika2104/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/anshika2104/DSA/tree/master/0200-number-of-islands) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/anshika2104/DSA/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/anshika2104/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2308-divide-array-into-equal-pairs](https://github.com/anshika2104/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 ## Binary Search
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/anshika2104/DSA/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/anshika2104/DSA/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Enumeration
 |  |
